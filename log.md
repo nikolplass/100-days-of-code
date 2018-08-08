@@ -10,7 +10,15 @@
 **Link(s) to work**
 
 
-### Day 1: Tuesday, August, 7, 2018
+### Day 0: Tuesday, August, 7, 2018
+
+**Today's Progress**: Prepping and watching instruction video. Watched wht I learned a from 100daysofcode video
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 1: Wednesday, August, 8, 2018
 
 **Today's Progress**: Prepping and watching instruction video. Watched wht I learned a from 100daysofcode video
 
